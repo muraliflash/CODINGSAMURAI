@@ -16,7 +16,7 @@ python3 To-Do List Application.py
 You can then clone this repository using:
 
 ```
-git clone https://github.com/muraliflash/CODINGSAMURAI
+git clone https://github.com/muraliflash/CODINGSAMURAI_To_Do-List_Application
 ```
 
 ## Usage
@@ -89,7 +89,7 @@ Contributions are what make the open source community such an amazing place to l
 ## Contact
 🚀 Gmail : [MuraliM](muraliece057@gmail.com)
 
-Project Link: https://github.com/muraliflash/CODINGSAMURAI
+Project Link: https://github.com/muraliflash/CODINGSAMURAI_To_Do-List_Application
 
 ## Credits
 
