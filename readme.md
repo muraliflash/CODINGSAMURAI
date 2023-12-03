@@ -16,7 +16,7 @@ python3 To-Do List Application.py
 You can then clone this repository using:
 
 ```
-git clone https://github.com/AnukarOP/Unlimited-Quotes-Generator
+git clone https://github.com/muraliflash/CODINGSAMURAI
 ```
 
 ## Usage
@@ -89,11 +89,11 @@ Contributions are what make the open source community such an amazing place to l
 ## Contact
 🚀 Gmail : [MuraliM](muraliece057@gmail.com)
 
-Project Link: [https://github.com/AnukarOP/Unlimited-Quotes-Generator](https://github.com/AnukarOP/Unlimited-Quotes-Generator)
+Project Link: https://github.com/muraliflash/CODINGSAMURAI
 
 ## Credits
 
-This project was issued by Coding Samurai, I really thank you for providing me the oppurtunity to work on this.
+This project was issued by **Coding Samurai**, I thank you for providing me the opportunity to work on this.
 
 ```Thank You for viewing my repository```
   
